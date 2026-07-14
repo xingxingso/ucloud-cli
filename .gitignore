@@ -3,3 +3,6 @@ out
 .idea/
 bin/
 .DS_Store
+.go-version
+.playwright-mcp
+tests/env/*.env
